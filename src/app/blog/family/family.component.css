@@ -1,0 +1,16 @@
+h1.plus {
+    font-size: 80px;
+    float: right;
+    position: relative;
+    top: -10px;
+}
+
+h1.plus:hover {
+    cursor: pointer;
+    color: gray;
+}
+
+.card {
+    float: left;
+    margin: 24px 30px;
+}
